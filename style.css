@@ -1,0 +1,65 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+li {
+    list-style: none;
+}
+
+.home {
+   
+    background: #171718;
+    
+}
+section {
+    min-height: 100vh;
+}
+
+.header {
+    margin-bottom: 142px;
+}
+.main-info__btn {
+    background: #5C62EC;
+    transition: .15s;
+}
+.main-info__btn:hover {
+    background: #8184c9;
+    transform: scale(1.2);
+}
+.header__logo{
+    transition: .30s;
+}
+.header__logo:hover {
+    transform: scale(1.5);
+}
+
+li {
+    transition: .15s;
+}
+
+li:hover {
+    text-decoration: underline;
+
+}
+.projects__title {
+    color: #5C62EC;
+}
+img {
+    width: 100%;
+}
+.footer {
+    background: #171718;
+}
+.social {
+    transition: .15s;
+}
+.social:hover {
+    background: #5C62EC;
+    
+}
+.card {
+    cursor: pointer;
+}
