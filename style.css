@@ -64,5 +64,6 @@ img {
     cursor: pointer;
 }
 .card__title {
+     padding-left: 20px;
     font-size: 24px;
 }
