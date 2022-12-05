@@ -63,3 +63,6 @@ img {
 .card {
     cursor: pointer;
 }
+.card__title {
+    font-size: 24px;
+}
